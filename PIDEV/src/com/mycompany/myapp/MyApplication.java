@@ -24,7 +24,7 @@ import com.mycompany.gui.listuser;
  */
 
 public class MyApplication {
-
+ private String test;
     private Form current;
     private Resources theme;
 
