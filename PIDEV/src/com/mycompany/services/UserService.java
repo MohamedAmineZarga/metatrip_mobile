@@ -23,7 +23,7 @@ import java.util.Map;
  *
  * @author medal
  */
-public class UserService {
+public class UserService {      
     
 public static  UserService instance =null;
 

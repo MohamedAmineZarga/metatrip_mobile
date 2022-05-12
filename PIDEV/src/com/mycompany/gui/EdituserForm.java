@@ -12,7 +12,7 @@ import com.codename1.ui.Command;
 import com.codename1.ui.Dialog;
 import com.codename1.ui.FontImage;
 import com.codename1.ui.Form;
-import com.codename1.ui.TextField;
+import com.codename1.ui.TextField;         
 import com.codename1.ui.events.ActionEvent;
 import com.codename1.ui.events.ActionListener;
 import com.codename1.ui.layouts.BoxLayout;
@@ -21,7 +21,7 @@ import com.mycompany.entities.user;
 import com.mycompany.services.UserService;
 /**
  *
- * @author medal
+ * @author flam
  */
 public class EdituserForm extends com.codename1.ui.Form{
   Form current;
