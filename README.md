@@ -1,1 +1,0 @@
-# metatrip_mobile
